@@ -17,6 +17,7 @@ To browse the page app this path after your main url
 
 
 i.e - mageno.test/offers/index/index
+<img width="1786" alt="image" src="https://github.com/sharshil-rightpoint/Magento-FE-Task/assets/89987928/c21b3b92-a703-42c7-a782-1189145a3d9c">
 
 
 
